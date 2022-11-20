@@ -1,0 +1,13 @@
+{
+  "name": "01-koderka-sass-partials-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass --watch scss/style.scss css/style.css",
+    "build:sass": "sass scss/style.scss css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
